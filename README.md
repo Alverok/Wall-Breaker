@@ -47,7 +47,7 @@ Wall Breaker is a captivating Arkanoid-style game developed using the powerful R
 ### 👥 | Team Members
 - Akhil Kannan (🙋🏻‍♂️!)
 - Anabha N N
-- Abhay Mathummal
+- Abhay Mathummal (github.com/Amathummal)
 - Josewin Anto
 
 ### 🚀 | Future Enhancements
