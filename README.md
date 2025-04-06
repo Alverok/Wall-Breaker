@@ -1,4 +1,5 @@
 ## Wall Breaker 🧱
+![WALL BREAKER](https://github.com/user-attachments/assets/03bd4ffe-c1c1-4bec-a475-c3b02b220530)
 
 ### 🪟 | Overview
 Wall Breaker is a captivating Arkanoid-style game developed using the powerful Raylib library in C. Players control a paddle to bounce a ball and break a wall of bricks. The objective is to clear all bricks before the ball falls below the paddle and the player loses all their lives.
